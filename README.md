@@ -1,2 +1,2 @@
 # Web-Development
-This login page is all about using html,css and javascript.
+These pages is all about using html,css and javascript.
